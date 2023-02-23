@@ -1,0 +1,40 @@
+.heading{
+	width: 50%;
+	margin: 30px auto;
+	text-align: center;
+	color: 	#6B8E67;
+}
+
+form {
+	width: 50%; 
+	margin: 30px auto; 
+}
+
+form p {
+	color: red;
+	margin: 0px;
+}
+
+table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+tr {
+	border-bottom: 1px solid #cbcbfc;
+}
+
+.task {
+	text-align: left;
+}
+
+.delete{
+	text-align: center;
+}
+.delete a{
+	color: #a52a2a;
+	padding: 1px 6px;
+	border-radius: 3px;
+	text-decoration: none;
+}
